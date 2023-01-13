@@ -1,29 +1,18 @@
-# frontend_vuejs
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Tugas Akhir Matakuliah Pemograman Website Fullstack + RestFullAPI</h2>
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+### 👨🏻‍💻 &nbsp;Profil
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+Dosen Pembimbing      : Billy Montolalu, S.Kom., M.Kom
+Nama Mahasiswa        : Daffa Fakhuddin Arrozy
+Nomor Induk Mahasiswa : 1102200037
 ```
+<p>💻 Saya ucapkan terima kasih kepada Pak Billy Montolalu atas bimbingan yang diberikan selama proses pembelajaran berlangsung.</p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Compile and Minify for Production
+### 🛠 &nbsp;Built With
 
-```sh
-npm run build
-```
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vue,tailwind&perline=3)](https://skillicons.dev)
+
+
+
