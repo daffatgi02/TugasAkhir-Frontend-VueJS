@@ -1,0 +1,14 @@
+a {
+  font-weight: bold;
+}
+
+.containertable {
+  padding: 10px;
+  height: 300px;
+}
+
+td{
+    font-weight: bold;
+    color: gray;
+}
+
